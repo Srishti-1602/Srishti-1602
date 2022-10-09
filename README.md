@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: SolidWorks, Ansys, Catia, IoT, Robotics, Frontend Web Dev.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Srishti-1602&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-1602&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Srishti-1602/Your_GitHub_Repository_Name)
