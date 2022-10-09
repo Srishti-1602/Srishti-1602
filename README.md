@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a healthcare robot "Rudra" and self balancing and automated working of cycles.
 - 💬 Ask me about: SolidWorks, Ansys, Catia, IoT, Robotics, Frontend Web Dev.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
