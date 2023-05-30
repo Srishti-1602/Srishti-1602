@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a healthcare robot "Rudra" and self balancing and automated working of cycles.
+- 🔭 I’m currently working on a healthcare robot "Rudra".
 - 💬 Ask me about: SolidWorks, Ansys, Catia, IoT, Robotics, Frontend Web Dev.
 
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Srishti-1602&show_icons=true)
 
