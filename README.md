@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a healthcare robot "Rudra" and a notes generating web application "Gyaan Setu".
-- 💬 Ask me about: SolidWorks, Ansys, Catia, IoT, Robotics, Frontend Web Dev.
+
 
 
 
